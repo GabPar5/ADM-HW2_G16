@@ -29,4 +29,4 @@ The analysis was performed mainly on a Jupyter Notebook file. Here follows a lis
 4. __`top_five_list.py`__:
    > This script goes through the list.json file and finds the top five tags for the books.
 
-If the notebook file doesn't show plots/gets some errors, you can access it from [this]() link.
+If the notebook file doesn't show plots/gets some errors, you can access it from [this](https://nbviewer.org/github/GabPar5/ADM-HW2_G16/blob/main/main.ipynb) link.
